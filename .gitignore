@@ -1,0 +1,31 @@
+*.settings
+*.settings/
+*.project/
+*.project/
+*.springBeans
+*.springBeans/
+*.classpath
+*.classpath/
+*/.projiect
+# Compiled class file
+*.class
+*.project
+*.project/
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
